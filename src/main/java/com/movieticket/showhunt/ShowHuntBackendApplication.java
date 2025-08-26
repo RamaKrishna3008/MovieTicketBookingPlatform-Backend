@@ -10,5 +10,6 @@ public class ShowHuntBackendApplication {
 		SpringApplication.run(ShowHuntBackendApplication.class, args);
 		System.out.println("Movie Hunting Started");
 	}
+	
 
 }
